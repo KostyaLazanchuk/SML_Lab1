@@ -1,0 +1,16 @@
+E:\KPI\ComeBack\MultiProg\Lab1\Lab1\bin\Debug\net5.0\Lab1.exe
+E:\KPI\ComeBack\MultiProg\Lab1\Lab1\bin\Debug\net5.0\Lab1.deps.json
+E:\KPI\ComeBack\MultiProg\Lab1\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.json
+E:\KPI\ComeBack\MultiProg\Lab1\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.dev.json
+E:\KPI\ComeBack\MultiProg\Lab1\Lab1\bin\Debug\net5.0\Lab1.dll
+E:\KPI\ComeBack\MultiProg\Lab1\Lab1\bin\Debug\net5.0\ref\Lab1.dll
+E:\KPI\ComeBack\MultiProg\Lab1\Lab1\bin\Debug\net5.0\Lab1.pdb
+E:\KPI\ComeBack\MultiProg\Lab1\Lab1\obj\Debug\net5.0\Lab1.csproj.AssemblyReference.cache
+E:\KPI\ComeBack\MultiProg\Lab1\Lab1\obj\Debug\net5.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+E:\KPI\ComeBack\MultiProg\Lab1\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfoInputs.cache
+E:\KPI\ComeBack\MultiProg\Lab1\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfo.cs
+E:\KPI\ComeBack\MultiProg\Lab1\Lab1\obj\Debug\net5.0\Lab1.csproj.CoreCompileInputs.cache
+E:\KPI\ComeBack\MultiProg\Lab1\Lab1\obj\Debug\net5.0\Lab1.dll
+E:\KPI\ComeBack\MultiProg\Lab1\Lab1\obj\Debug\net5.0\ref\Lab1.dll
+E:\KPI\ComeBack\MultiProg\Lab1\Lab1\obj\Debug\net5.0\Lab1.pdb
+E:\KPI\ComeBack\MultiProg\Lab1\Lab1\obj\Debug\net5.0\Lab1.genruntimeconfig.cache

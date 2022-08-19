@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I6yw4HLDxF2ljliZQF/n0pHOB5S6y2W9IlrVF2RDclFK1H7OAIDAZwlQCiFQRAtUsjULSdLonsgqaVpWfXN/mA==",
+  "success": true,
+  "projectFilePath": "E:\\KPI\\ComeBack\\MultiProg\\Lab1\\Lab1\\Lab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Keefy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
